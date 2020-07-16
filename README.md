@@ -1,4 +1,5 @@
 # Rat-Beater
+<img src="https://github.com/Marwa64/Rat-Beater/blob/master/Robot.jpeg" width="650" height="500">
 <p>Using an Arduino Uno, I created a robot to push of rats from my doorstep when they approach it </p>
 <h3>Components:</h3> 
 <ul>
