@@ -1,5 +1,5 @@
 # Rat-Beater
-<p>Using an arduino uno, I created a robot to push of rats from my doorstep when they approach it </p>
+<p>Using an Arduino Uno, I created a robot to push of rats from my doorstep when they approach it </p>
 <h3>Components:</h3> 
 <ul>
 	<li>Arduino Uno</li>
